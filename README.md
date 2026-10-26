@@ -9,7 +9,7 @@ classnames list, a `types.xml`, and TraderPlus price files. All of them are read
 
 ## Download
 
-1. Go to [**Releases**](../../releases/latest) and download `Spectres DayZ PBO Tool Setup V1.xx.exe`.
+1. Go to [**Releases**](../../releases/latest) and download `Spectres.DayZ.PBO.Tool.Setup.V1.xx.exe`.
 2. Run it. It installs just for you (no administrator rights needed) and adds a desktop shortcut and a Start menu folder.
 3. Windows may show **"Windows protected your PC"** because the tool is new and not code-signed. Click **More info**, then
    **Run anyway**.
