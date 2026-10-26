@@ -22,7 +22,7 @@ Start menu. Your projects and settings are never deleted.
 Each release lists a SHA-256 checksum. To check that your file matches, open PowerShell in your Downloads folder and run:
 
 ```powershell
-Get-FileHash ".\Spectres DayZ PBO Tool Setup V1.16.exe" -Algorithm SHA256
+Get-FileHash ".\Spectres.DayZ.PBO.Tool.Setup.V1.16.exe" -Algorithm SHA256
 ```
 
 The value it prints should be the same as the one on the release page.
